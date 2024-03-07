@@ -12,7 +12,7 @@ A. Contents of the folder (list of scripts) in order of analysis:
 7_MAGMA_gene_based.md
 8_replication_study_Ishida_method.md   
 
-B. Description of the scirpts:
+B. Description of the scripts:
 1. How quality control was conducted for GWAS 
 2. Filtering, normalization and transformation of relative abundance from 16S rRNA and shotgun metagenomic sequencing mOTUs 
 3. GWAS between host genotype and relative abundance composition using PLINK2  
