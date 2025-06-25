@@ -5,7 +5,7 @@ This repository contains the codes used for a study on the relationship between 
 A. Contents of the folder (list of scripts) in order of analysis: 
 1_GWAS_QC.md
 2_Microbiome_relative_abundance_filtering_transformation.md
-2.5_Shapiro_Wilk.md
+2.1_Shapiro_Wilk.md
 3_GWAS_Host_Microbiome.md
 3.1_GWAS_Binary.md
 3.2_GWAS_Quantitative.md
