@@ -24,4 +24,4 @@ B. Description of the scripts:
 4. Annotation of functional varints on vcf files using SNPeff
 5. PheWAS between loss of function variants and all filtered taxa
 6. Gene-based analysis between loss of function variants and all filtered taxa using MAGMA
-7. Ishida et al. 16S rRNA method replication using QIIME2
+7. 16S rRNA method replication using QIIME2
