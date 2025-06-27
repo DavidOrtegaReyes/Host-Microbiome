@@ -13,6 +13,7 @@ A. Contents of the folder (list of scripts) in order of analysis:
 5_PheWAS_INTed.md
 6_MAGMA_gene_based.md
 7_replication_study_Ishida_method.md   
+8_Causal_mediation_analysis.md
 
 B. Description of the scripts:
 1. How quality control was conducted for GWAS 
@@ -25,3 +26,4 @@ B. Description of the scripts:
 5. PheWAS between loss of function variants and all filtered taxa
 6. Gene-based analysis between loss of function variants and all filtered taxa using MAGMA
 7. 16S rRNA method replication using QIIME2
+8. Causal mediation analysis
